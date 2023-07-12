@@ -1,0 +1,23 @@
+.main-title,.sub-title {
+    color: var(--color-primary-dark);
+}
+
+.welcome {
+    color: var(--color-secondary);
+}
+
+.main-text a
+     {
+        text-decoration: none!important;
+      }
+.main-text a:link,
+.main-text a:visited {
+        color: var(--color-secondary)!important;
+      }
+      
+.main-text a:hover,
+.main-text a:active {
+        color: var(--color-secondary-light)!important;
+      }
+
+
