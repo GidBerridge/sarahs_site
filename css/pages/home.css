@@ -1,9 +1,11 @@
 .main-title,.sub-title {
     color: var(--color-primary-dark);
+    
 }
 
-.welcome {
+.page-intro {
     color: var(--color-secondary);
+    font-weight: 600;
 }
 
 .main-text a
@@ -19,5 +21,10 @@
 .main-text a:active {
         color: var(--color-secondary-light)!important;
       }
+
+.self-photo {
+    float: left;
+    margin: 0.5rem;
+}
 
 

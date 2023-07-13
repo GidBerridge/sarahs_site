@@ -1,0 +1,7 @@
+.word-highlight{
+    color: var(--color-tertiary);
+}
+
+.disclaimer {
+    color: var(--color-black);
+}
