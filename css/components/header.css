@@ -26,12 +26,14 @@
     z-index: 5000;
     padding-right: 3rem;
   }
+
+  .nav-item {
+    padding: 0.5rem;
+  }
   
   .nav-text {
-    /* font-size: 1.3em; */
     color: var(--color-primary) !important;
     text-decoration: none;
-    padding: 0.5rem 1rem;
   }
   
   @media only screen and (min-width: 751px) {

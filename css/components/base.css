@@ -1,9 +1,10 @@
 :root {
-    --color-primary: #9a9a9a;
+    --color-primary: #646464;
     --color-primary-light: #cfcfcf;
     --color-primary-dark: #2c2c2c;
     --color-secondary: #508d24;
     --color-secondary-light: #9ada6c;
+    --color-tertiary: #24508D;
     --color-white: #fff;
     --color-black: #000;
     --color-background: #EEEEEE;
@@ -44,13 +45,13 @@
     font-size: 30px;
   }
   
-  p {
+  p, li {
     color: var(--color-primary);
     font-size: 1.2rem;
   }
 
   .divider {
-    width: 80%;
+    width: 85%;
     height: 1px;
     background-color: var(--color-primary);
     margin: 0 auto;
