@@ -2,6 +2,10 @@
     color: var(--color-tertiary);
 }
 
+.highlight-green{
+    color: var(--color-secondary);
+}
+
 .disclaimer {
     color: var(--color-black);
 }

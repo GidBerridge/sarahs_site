@@ -4,7 +4,7 @@
 }
 
 .page-intro {
-    color: var(--color-secondary);
+    color: var(--color-dark-green);
     font-weight: 600;
 }
 
@@ -21,6 +21,11 @@
 .main-text a:active {
         color: var(--color-secondary-light)!important;
       }
+
+.main-text li{
+    font-size: 1.4rem;
+}
+
 
 .self-photo {
     float: left;
