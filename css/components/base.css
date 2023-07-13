@@ -2,9 +2,11 @@
     --color-primary: #646464;
     --color-primary-light: #cfcfcf;
     --color-primary-dark: #2c2c2c;
-    --color-secondary: #508d24;
-    --color-secondary-light: #9ada6c;
-    --color-tertiary: #24508D;
+    --color-dark-green: #216418;
+    --color-secondary: #5B1864;
+    --color-secondary-light: #9b2da9;
+    /* --color-tertiary: #24508D; */
+    --color-tertiary: #643518;
     --color-white: #fff;
     --color-black: #000;
     --color-background: #EEEEEE;
@@ -76,5 +78,9 @@
   ul {
     list-style-type: none;
     padding-left: 0;
+  }
+
+  .img-cogs {
+    opacity: 0.7;
   }
   
