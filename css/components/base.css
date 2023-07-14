@@ -5,7 +5,6 @@
     --color-dark-green: #216418;
     --color-secondary: #5B1864;
     --color-secondary-light: #9b2da9;
-    /* --color-tertiary: #24508D; */
     --color-tertiary: #643518;
     --color-white: #fff;
     --color-black: #000;
@@ -14,7 +13,9 @@
   }
   
   body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Lato', sans-serif!important;
+    font-size: 1.2rem!important;
+    font-weight: 400!important;
     background-color: var(--color-background);
   }
 
@@ -49,7 +50,7 @@
   
   p, li {
     color: var(--color-primary);
-    font-size: 1.2rem;
+    font-size: 3.2rem;
   }
 
   .divider {
