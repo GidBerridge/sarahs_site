@@ -3,8 +3,8 @@
     --color-primary-light: #cfcfcf;
     --color-primary-dark: #2c2c2c;
     --color-dark-green: #216418;
-    --color-secondary: #5B1864;
-    --color-secondary-light: #9b2da9;
+    --color-secondary: #1f8a0e;
+    --color-secondary-light: #6fbe32;
     --color-tertiary: #643518;
     --color-white: #ffe;
     --color-black: #000;
@@ -83,6 +83,18 @@
 
   .img-cogs {
     opacity: 0.7;
+  }
+
+  .contact-icon {
+    width: 30px;
+    height: 30px;
+    margin: 0 10px;
+
+  }
+
+  .guardian-img {
+    width: 200px;
+    margin: 0 10px;
   }
 
 
